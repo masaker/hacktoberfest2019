@@ -13,6 +13,7 @@
 		7711A295236B3D5000A7325C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7711A294236B3D5000A7325C /* Assets.xcassets */; };
 		7711A298236B3D5000A7325C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7711A297236B3D5000A7325C /* Preview Assets.xcassets */; };
 		7711A29B236B3D5000A7325C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7711A299236B3D5000A7325C /* LaunchScreen.storyboard */; };
+		7711A2A3236B485600A7325C /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7711A2A2236B485600A7325C /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7711A297236B3D5000A7325C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7711A29A236B3D5000A7325C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7711A29C236B3D5000A7325C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7711A2A2236B485600A7325C /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7711A28E236B3D2600A7325C /* AppDelegate.swift */,
 				7711A290236B3D2600A7325C /* SceneDelegate.swift */,
 				7711A292236B3D2700A7325C /* ContentView.swift */,
+				7711A2A2236B485600A7325C /* CircleImage.swift */,
 				7711A294236B3D5000A7325C /* Assets.xcassets */,
 				7711A299236B3D5000A7325C /* LaunchScreen.storyboard */,
 				7711A29C236B3D5000A7325C /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7711A28F236B3D2600A7325C /* AppDelegate.swift in Sources */,
+				7711A2A3236B485600A7325C /* CircleImage.swift in Sources */,
 				7711A291236B3D2600A7325C /* SceneDelegate.swift in Sources */,
 				7711A293236B3D2700A7325C /* ContentView.swift in Sources */,
 			);
